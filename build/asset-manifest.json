@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToggleButton/static/css/main.9aeeaa41.css",
+    "main.js": "/ToggleButton/static/js/main.4849e8df.js",
+    "index.html": "/ToggleButton/index.html",
+    "main.9aeeaa41.css.map": "/ToggleButton/static/css/main.9aeeaa41.css.map",
+    "main.4849e8df.js.map": "/ToggleButton/static/js/main.4849e8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aeeaa41.css",
+    "static/js/main.4849e8df.js"
+  ]
+}
