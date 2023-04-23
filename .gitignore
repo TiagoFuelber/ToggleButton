@@ -3,10 +3,6 @@
 /.pnp
 .pnp.js
 
-# build output
-/build
-/dist
-
 # logs and cache files
 logs
 *.log
