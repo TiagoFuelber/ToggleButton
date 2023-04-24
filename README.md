@@ -2,8 +2,6 @@
 
 Simple Toggle Button
 
-https://tiagofuelber.github.io/ToggleButton/
-
 It supports light and dark themes
 
 ## Images
